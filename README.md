@@ -2,6 +2,7 @@
 
 ## Installing the Mods (Manual Method, ignore if using Modrinth launcher) (Not Recommended)
 You can find the mods zip file here. Once installed extract it to a folder (I assume you know how to do this) and open it up, once inside you will see 2 folders and a list of mod files.
+
 ![image](https://github.com/user-attachments/assets/80a70eb6-ae3b-4a50-8c8b-37c4da6f5c25)
 
 Everything **not** in a folder is required to play on the server. Everything in the `ClientOnly` folder is highly recommended (includes mods like Oculus and Radium which heavily increase performance and let you load shaders!). You can ignore the `ServerOnly` folder.
