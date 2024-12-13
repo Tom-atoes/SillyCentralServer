@@ -1,7 +1,7 @@
 # Install Guide
 
 ## Manual Installation **(Not Recommended)**
-You can find the mods zip file here. Once installed extract it to a folder (I assume you know how to do this) and open it up, once inside you will see 2 folders and a list of mod files.
+You can find the [mods zip file here](https://drive.google.com/file/d/1438XIgYfNuml4bbD1KMyeVwgH_macWKT/view?usp=sharing). Once installed extract it to a folder (I assume you know how to do this) and open it up, once inside you will see 2 folders and a list of mod files.
 
 ![image](https://github.com/user-attachments/assets/d2d0a4e7-2c67-4734-a2c8-4eaf2a8e38f8)
 
@@ -16,7 +16,7 @@ Next up you need Forge, head to https://files.minecraftforge.net/net/minecraftfo
 ## Modrinth App Installation (Recommended)
 I highly recommend using the [Modrinth Launcher](https://modrinth.com/app) over CurseForge's launcher.
 
-Next install the `.mrpack` file from the repository above.
+Next install the `.mrpack` file from [here]([https://drive.google.com/file/d/1iH2SBiuCfTj_XzoGPMPMFB92ZcQyz8_1/view?usp=sharing](https://drive.google.com/file/d/1U4f6shZ1G_KTegAKRX2CCgybcBxruFFn/view?usp=sharing)) (pack is in the zip file, extract it).
 
 Once installed open it up and head to the green + icon in the bottom left of the screen to create a new profile.
 ![image](https://github.com/user-attachments/assets/3c34d275-201b-4a73-b291-8ace62f68591)
