@@ -3,11 +3,12 @@
 ## Manual Installation **(Not Recommended)**
 You can find the mods zip file here. Once installed extract it to a folder (I assume you know how to do this) and open it up, once inside you will see 2 folders and a list of mod files.
 
-![image](https://github.com/user-attachments/assets/80a70eb6-ae3b-4a50-8c8b-37c4da6f5c25)
+![image](https://github.com/user-attachments/assets/d2d0a4e7-2c67-4734-a2c8-4eaf2a8e38f8)
 
 Everything **not** in a folder is required to play on the server. Everything in the `ClientOnly` folder is highly recommended (includes mods like Oculus and Radium which heavily increase performance and let you load shaders!). You can ignore the `ServerOnly` folder.
 
 Head to `%appdata%/.minecraft` in file explorer and look for a `mods` folder (if there isn't one, just create it), if you already have mods in this folder delete them. Drag all the mods you want into this folder (make sure you don't drag the `ClientOnly` folder into here, drag the stuff inside the `ClientOnly` folder in instead).
+Look for the `resourcepacks` folder in `%appdata%/.minecraft` (if there isn't one, just create it) and drag everything from the `ResourcePacks` folder into there.
 
 Next up you need Forge, head to https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html and under "Download Recommended" press "Installer". Run the file it downloads and select "Install Client". Once this is done open the minecraft launcher and the version of forge you just installed should be selected already.
 
